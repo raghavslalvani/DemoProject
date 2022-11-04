@@ -1,3 +1,1 @@
 # DemoProject
-
-Welcome to SkillAssure
